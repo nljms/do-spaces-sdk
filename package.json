@@ -1,5 +1,5 @@
 {
-  "name": "do-spaces-sdk",
+  "name": "@nljms/do-spaces-sdk",
   "version": "1.0.0",
   "description": "A simple Digitalocean Spaces sdk extended with AWS SDK",
   "files": [
@@ -14,10 +14,7 @@
     "version": "npm run format && git add -A src",
     "postversion": "git push && git push --tags"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/nljms/do-spaces-sdk.git"
-  },
+  "repository": "https://github.com/nljms/do-spaces-sdk",
   "keywords": [],
   "author": "",
   "license": "ISC",
